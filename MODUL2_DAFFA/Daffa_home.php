@@ -48,7 +48,7 @@ echo "Find your best deal, here!";
 </ul>
 <div class="card-body">
     <form action="Daffa_booking.php" method="post">
-        <button type="submit" class="btn btn-primary">Book Now</button>
+        <button type="submit" name="sedan" class="btn btn-primary">Book Now</button>
     </form>
 </div>
 </div>
@@ -57,7 +57,7 @@ echo "Find your best deal, here!";
     <div class="card" style="width: 18rem;">
     <img src="Jazz.jpg" class="card-img-top" alt="jazz">
     <div class="card-body">
-    <h5 class="card-title">Jazz</h5>
+    <h5 class="card-title">Honda Jazz</h5>
     <p>Rp500.000 / Day</p>
 </div>
 <ul class="list-group list-group-flush">
@@ -67,7 +67,7 @@ echo "Find your best deal, here!";
 </ul>
 <div class="card-body">
     <form action="Daffa_booking.php" method="post">
-        <button type="submit" class="btn btn-primary">Book Now</button>
+        <button type="submit" name="sport" class="btn btn-primary">Book Now</button>
     </form>
 </div>
 </div>
@@ -76,7 +76,7 @@ echo "Find your best deal, here!";
     <div class="card" style="width: 18rem;">
     <img src="Rush.png" class="card-img-top" alt="rush">
     <div class="card-body">
-    <h5 class="card-title">Rush</h5>
+    <h5 class="card-title">Toyota Rush</h5>
     <p>Rp675.000 / Day</p>
 </div>
 <ul class="list-group list-group-flush">
@@ -86,7 +86,7 @@ echo "Find your best deal, here!";
 </ul>
 <div class="card-body">
     <form action="Daffa_booking.php" method="post">
-        <button type="submit" class="btn btn-primary">Book Now</button>
+        <button type="submit" name="besar" class="btn btn-primary">Book Now</button>
     </form>
 </div>
 </div>
