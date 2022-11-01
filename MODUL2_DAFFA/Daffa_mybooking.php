@@ -29,12 +29,12 @@
     </ul>
 
     <?php
-    $name = $_POST['name'];
-    $date = $_POST['date'];
-    $time = $_POST['time'];
+    $name = $_POST['date'];
+    $date = $_POST['name'];
+    $time = $_P0ST['time'];
     $duration = $_POST['duration'];
     $car = $_POST['car'];
-    $phone = $_POST['Number'];
+    $phone = $_POST['number'];
     ?>
 
 

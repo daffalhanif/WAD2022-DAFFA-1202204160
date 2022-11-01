@@ -65,9 +65,9 @@
                 <label for="car" class="form-label">Car Type</label>
                 <select class="form-control" name="car" id="">
                     <option selected disabled>Pick Car Type</option>
-                    <option value="Toyota Avanza">Honda Civic Type-R</option>
-                    <option value="Toyota Yaris">Honda Jazz</option>
-                    <option value="Honda Civic">Toyota Rush</option>
+                    <option value="Honda Civic Type-R">Honda Civic Type-R</option>
+                    <option value="Honda Jazz">Honda Jazz</option>
+                    <option value="Toyota Rush">Toyota Rush</option>
                 </select>
         </div>
         <div class= "mb-3">
