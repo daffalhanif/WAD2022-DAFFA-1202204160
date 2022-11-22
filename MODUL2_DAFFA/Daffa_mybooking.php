@@ -29,12 +29,12 @@
     </ul>
 
     <?php
-    $name = $_POST['date'];
-    $date = $_POST['name'];
-    $time = $_P0ST['time'];
+    $name = $_POST['name'];
+    $date = $_POST['date'];
+    $time = $_POST['time'];
     $duration = $_POST['duration'];
-    $car = $_POST['car'];
-    $phone = $_POST['number'];
+    $car = isset($_POST['car']) ? $_POST['car'] : 'No car selected';
+    $phone = $_POST['Number'];
     ?>
 
 
